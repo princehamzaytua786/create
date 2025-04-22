@@ -1,3 +1,3 @@
 import os
-os.syatem('git pull')
+os.system('git pull')
 import creates
